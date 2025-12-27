@@ -11,6 +11,10 @@ This project demonstrates clean UI, component-based architecture, and efficient 
 
 ![Image alt](https://github.com/kaif-2407/expense-tracker/blob/05ed4fe47034f2a289665d0efdbb87cc72544cda/Screenshot%202025-12-27%20142452.png)
 
+![image alt](https://github.com/kaif-2407/expense-tracker/blob/ae78e6e3c5359d649d34c29d0262b79b8ab91f5d/Screenshot%202025-12-27%20142826.png)
+
+![image alt]()
+
 
 🛠️ Tech Stack
 
